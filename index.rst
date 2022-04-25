@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CERT DMS's documentation!
+Welcome to SOC DMS's documentation!
 ====================================
 
 *Document management* is a system or process used to capture, track and store electronic documents such as PDFs, word processing files and digital images of paper-based content.
