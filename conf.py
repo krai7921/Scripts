@@ -18,7 +18,7 @@ master_doc = "index"
 # ones.
 extensions = [
    # "ablog",
-    "myst_nb",
+   #"myst_nb",
     "numpydoc",
     "sphinx.ext.autodoc",
     "sphinx.ext.intersphinx",
