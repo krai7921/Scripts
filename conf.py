@@ -17,7 +17,7 @@ master_doc = "index"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "ablog",
+   # "ablog",
     "myst_nb",
     "numpydoc",
     "sphinx.ext.autodoc",
