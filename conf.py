@@ -25,12 +25,11 @@ extensions = [
     "sphinx.ext.viewcode",
    # "sphinxcontrib.youtube",
    # "sphinx_copybutton",
-    "sphinx_design",
-    "sphinx_tabs.tabs",
-    "sphinx_thebe",
-    "sphinx_togglebutton",
-    "sphinxcontrib.bibtex",
-    "sphinxext.opengraph",
+   # "sphinx_tabs.tabs",
+   # "sphinx_thebe",
+   # "sphinx_togglebutton",
+   # "sphinxcontrib.bibtex",
+   # "sphinxext.opengraph",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
